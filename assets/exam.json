@@ -1,0 +1,203 @@
+[
+    {
+      "student_id": "S123456789",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 85
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 78
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 90
+        }
+      ]
+    },
+    {
+      "student_id": "S234567890",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 92
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 85
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 88
+        }
+      ]
+    },
+    {
+      "student_id": "S345678901",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 78
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 70
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 80
+        }
+      ]
+    },
+    {
+      "student_id": "S456789012",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 80
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 75
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 82
+        }
+      ]
+    },
+    {
+      "student_id": "S567890123",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 88
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 82
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 85
+        }
+      ]
+    },
+    {
+      "student_id": "S678901234",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 75
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 68
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 72
+        }
+      ]
+    },
+    {
+      "student_id": "S789012345",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 85
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 78
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 90
+        }
+      ]
+    },
+    {
+      "student_id": "S890123456",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 92
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 85
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 88
+        }
+      ]
+    },
+    {
+      "student_id": "S901234567",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 78
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 70
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 80
+        }
+      ]
+    },
+    {
+      "student_id": "S012345678",
+      "exams": [
+        {
+          "exam_name": "Midterm",
+          "subject": "Mathematics",
+          "marks": 80
+        },
+        {
+          "exam_name": "Midterm",
+          "subject": "Science",
+          "marks": 75
+        },
+        {
+          "exam_name": "Final",
+          "subject": "English",
+          "marks": 82
+        }
+      ]
+    }
+  ]
+  

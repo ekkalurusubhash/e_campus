@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Dashboard",
+      "icon": "tachometer-alt",
+      "type": "link",
+      "isActive": false,
+      "routerLink": "/dashboard"
+    },
+    {
+      "name": "Teachers",
+      "icon": "chalkboard-teacher",
+      "type": "link",
+      "routerLink": "/teachers",
+      "isActive": false
+    },
+    {
+      "name": "Parents",
+      "icon": "users",
+      "type": "link",
+      "routerLink": "/parents",
+      "isActive": false
+    },
+    {
+      "name": "Students",
+      "icon": "user-graduate",
+      "type": "link",
+      "routerLink": "/students",
+      "isActive": false
+    },
+    {
+      "name": "Exams",
+      "icon": "book-open",
+      "type": "link",
+      "routerLink": "/exams",
+      "isActive": false
+    },
+    {
+      "name": "Fees",
+      "icon": "wallet",
+      "type": "link",
+      "routerLink": "/fees",
+      "isActive": false
+    },
+    {
+      "name": "Attendance",
+      "icon": "tasks",
+      "type": "link",
+      "routerLink": "/attendance",
+      "isActive": false
+    },
+    {
+      "name": "Events",
+      "icon": "snowboarding",
+      "type": "link",
+      "routerLink": "/events",
+      "isActive": false
+    },
+    {
+      "name": "Holidays",
+      "icon": "calendar-alt",
+      "type": "link",
+      "routerLink": "/holidays",
+      "isActive": false
+    },
+    {
+      "name": "Reports",
+      "icon": "calendar-alt",
+      "type": "link",
+      "routerLink": "/reports",
+      "isActive": false
+    }
+  ]
+  

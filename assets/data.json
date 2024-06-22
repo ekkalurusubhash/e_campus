@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "gender": "Male",
+    "grade": "A",
+    "address": "123 Main St, City",
+    "phone": "123-456-7890",
+    "email": "john@example.com",
+    "guardian": {
+      "name": "Jane Doe",
+      "relationship": "Mother",
+      "phone": "987-654-3210",
+      "email": "jane@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 85
+      },
+      {
+        "subject": "Science",
+        "marks": 90
+      },
+      {
+        "subject": "English",
+        "marks": 80
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Absent"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 19,
+    "gender": "Female",
+    "grade": "B",
+    "address": "456 Elm St, Town",
+    "phone": "456-789-0123",
+    "email": "jane.smith@example.com",
+    "guardian": {
+      "name": "John Smith",
+      "relationship": "Father",
+      "phone": "789-012-3456",
+      "email": "john.smith@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 75
+      },
+      {
+        "subject": "Science",
+        "marks": 85
+      },
+      {
+        "subject": "English",
+        "marks": 70
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Absent"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 18,
+    "gender": "Female",
+    "grade": "C",
+    "address": "789 Oak St, Village",
+    "phone": "789-123-4567",
+    "email": "alice@example.com",
+    "guardian": {
+      "name": "Bob Johnson",
+      "relationship": "Guardian",
+      "phone": "321-654-9870",
+      "email": "bob@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 80
+      },
+      {
+        "subject": "Science",
+        "marks": 70
+      },
+      {
+        "subject": "English",
+        "marks": 75
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Michael Johnson",
+    "age": 21,
+    "gender": "Male",
+    "grade": "A",
+    "address": "789 Oak St, Village",
+    "phone": "789-123-4567",
+    "email": "michael@example.com",
+    "guardian": {
+      "name": "Sarah Johnson",
+      "relationship": "Mother",
+      "phone": "321-654-9870",
+      "email": "sarah@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 85
+      },
+      {
+        "subject": "Science",
+        "marks": 90
+      },
+      {
+        "subject": "English",
+        "marks": 80
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emily Wilson",
+    "age": 19,
+    "gender": "Female",
+    "grade": "B",
+    "address": "456 Elm St, Town",
+    "phone": "456-789-0123",
+    "email": "emily@example.com",
+    "guardian": {
+      "name": "Mark Wilson",
+      "relationship": "Father",
+      "phone": "789-012-3456",
+      "email": "mark@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 75
+      },
+      {
+        "subject": "Science",
+        "marks": 85
+      },
+      {
+        "subject": "English",
+        "marks": 70
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Absent"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Daniel Brown",
+    "age": 20,
+    "gender": "Male",
+    "grade": "C",
+    "address": "123 Main St, City",
+    "phone": "123-456-7890",
+    "email": "daniel@example.com",
+    "guardian": {
+      "name": "Julia Brown",
+      "relationship": "Guardian",
+      "phone": "987-654-3210",
+      "email": "julia@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 80
+      },
+      {
+        "subject": "Science",
+        "marks": 70
+      },
+      {
+        "subject": "English",
+        "marks": 75
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sophia Miller",
+    "age": 18,
+    "gender": "Female",
+    "grade": "A",
+    "address": "789 Oak St, Village",
+    "phone": "789-123-4567",
+    "email": "sophia@example.com",
+    "guardian": {
+      "name": "David Miller",
+      "relationship": "Father",
+      "phone": "321-654-9870",
+      "email": "david@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 85
+      },
+      {
+        "subject": "Science",
+        "marks": 90
+      },
+      {
+        "subject": "English",
+        "marks": 80
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ethan Wilson",
+    "age": 20,
+    "gender": "Male",
+    "grade": "B",
+    "address": "456 Elm St, Town",
+    "phone": "456-789-0123",
+    "email": "ethan@example.com",
+    "guardian": {
+      "name": "Olivia Wilson",
+      "relationship": "Mother",
+      "phone": "789-012-3456",
+      "email": "olivia@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 75
+      },
+      {
+        "subject": "Science",
+        "marks": 85
+      },
+      {
+        "subject": "English",
+        "marks": 70
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Absent"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Oliver Davis",
+    "age": 19,
+    "gender": "Male",
+    "grade": "C",
+    "address": "123 Main St, City",
+    "phone": "123-456-7890",
+    "email": "oliver@example.com",
+    "guardian": {
+      "name": "Emma Davis",
+      "relationship": "Mother",
+      "phone": "987-654-3210",
+      "email": "emma@example.com"
+    },
+    "fees": [
+      {
+        "month": "January",
+        "amount": 100
+      },
+      {
+        "month": "February",
+        "amount": 100
+      },
+      {
+        "month": "March",
+        "amount": 100
+      }
+    ],
+    "exams": [
+      {
+        "subject": "Maths",
+        "marks": 80
+      },
+      {
+        "subject": "Science",
+        "marks": 70
+      },
+      {
+        "subject": "English",
+        "marks": 75
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-06-01",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-02",
+        "status": "Present"
+      },
+      {
+        "date": "2024-06-03",
+        "status": "Present"
+      }
+    ]
+  }
+]

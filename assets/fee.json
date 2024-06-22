@@ -1,0 +1,233 @@
+[
+    {
+      "student_id": "S123456789",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1000,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-15"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 200,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 50,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-01"
+        }
+      ]
+    },
+    {
+      "student_id": "S234567890",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1200,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-20"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 150,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-05"
+        },
+        {
+          "fee_type": "Library",
+          "amount": 50,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-30"
+        }
+      ]
+    },
+    {
+      "student_id": "S345678901",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1100,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-25"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 180,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 60,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        }
+      ]
+    },
+    {
+      "student_id": "S456789012",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1300,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 200,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 70,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        }
+      ]
+    },
+    {
+      "student_id": "S567890123",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1250,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-28"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 170,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-10"
+        },
+        {
+          "fee_type": "Library",
+          "amount": 60,
+          "payment_status": "Paid",
+          "payment_date": "2024-05-30"
+        }
+      ]
+    },
+    {
+      "student_id": "S678901234",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1150,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-01"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 190,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 50,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-02"
+        }
+      ]
+    },
+    {
+      "student_id": "S789012345",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1200,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-03"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 160,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-04"
+        },
+        {
+          "fee_type": "Library",
+          "amount": 70,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        }
+      ]
+    },
+    {
+      "student_id": "S890123456",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1300,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 180,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 60,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-05"
+        }
+      ]
+    },
+    {
+      "student_id": "S901234567",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1100,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 200,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        },
+        {
+          "fee_type": "Library",
+          "amount": 50,
+          "payment_status": "Not Paid",
+          "payment_date": null
+        }
+      ]
+    },
+    {
+      "student_id": "S012345678",
+      "fees": [
+        {
+          "fee_type": "Tuition",
+          "amount": 1200,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-06"
+        },
+        {
+          "fee_type": "Extracurricular",
+          "amount": 180,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-07"
+        },
+        {
+          "fee_type": "Library",
+          "amount": 60,
+          "payment_status": "Paid",
+          "payment_date": "2024-06-08"
+        }
+      ]
+    }
+  ]
+  

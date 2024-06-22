@@ -1,0 +1,33 @@
+{
+    "mandatoryHolidays": [
+      {"name": "Republic Day", "date": "January 26", "day": "Friday"},
+      {"name": "Independence Day", "date": "August 15", "day": "Thursday"},
+      {"name": "Mahatma Gandhi's Birthday", "date": "October 2", "day": "Wednesday"},
+      {"name": "Buddha Purnima", "date": "May 23", "day": "Thursday"},
+      {"name": "Christmas Day", "date": "December 25", "day": "Wednesday"},
+      {"name": "Dussehra (Vijay Dashami)", "date": "October 12", "day": "Saturday"},
+      {"name": "Diwali (Deepavali)", "date": "October 31", "day": "Thursday"},
+      {"name": "Good Friday", "date": "March 29", "day": "Friday"},
+      {"name": "Guru Nanak's Birthday", "date": "November 15", "day": "Friday"},
+      {"name": "Id-ul-Fitr", "date": "April 11", "day": "Thursday"},
+      {"name": "Id-ul-Zuha", "date": "June 17", "day": "Monday"},
+      {"name": "Mahavir Jayanti", "date": "April 21", "day": "Sunday"},
+      {"name": "Muharram", "date": "July 17", "day": "Wednesday"},
+      {"name": "Prophet Mohammad's Birthday (Id-e-Milad)", "date": "September 16", "day": "Monday"}
+    ],
+    "optionalHolidays": [
+      {"name": "Holi", "date": "March 25", "day": "Monday"},
+      {"name": "Ram Navami", "date": "April 17", "day": "Wednesday"},
+      {"name": "Janmashtami (Vaishnava)", "date": "August 26", "day": "Monday"},
+      {"name": "Parsi New Year", "date": "August 15", "day": "Thursday"},
+      {"name": "Ganesh Chaturthi", "date": "September 7", "day": "Saturday"},
+      {"name": "Onam", "date": "September 15", "day": "Sunday"},
+      {"name": "Dussehra (Maha Ashtami)", "date": "October 11", "day": "Friday"},
+      {"name": "Karva Chauth", "date": "October 20", "day": "Sunday"},
+      {"name": "Naraka Chaturdasi", "date": "October 31", "day": "Thursday"},
+      {"name": "Govardhan Puja", "date": "November 2", "day": "Saturday"},
+      {"name": "Bhai Duj", "date": "November 3", "day": "Sunday"},
+      {"name": "Chhath Puja", "date": "November 7", "day": "Thursday"}
+    ]
+  }
+  
