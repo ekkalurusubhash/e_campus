@@ -25,11 +25,7 @@ To log in, use any login details:
 The source code of this project is not available in this repository. If you are interested in obtaining the complete source code and end-to-end project setup, it is available for purchase.
 
 For inquiries, please contact us:
-- **Email:** subhash.ekkaluru@gmail.com
-# screens
-<img width="959" alt="image" src="https://github.com/ekkalurusubhash/e_campus/assets/38100723/ec055abc-bf95-407d-a06b-fd6e424265d9">
-
-![image](https://github.com/ekkalurusubhash/e_campus/assets/38100723/76bc9305-01d0-48e5-a7df-c3f90659a5ee)
+- **Email:** subhash.ekkaluru@gmail.com 
 
 
 
