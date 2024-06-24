@@ -64,7 +64,7 @@
     },
     {
       "name": "Reports",
-      "icon": "calendar-alt",
+      "icon": "file-signature", 
       "type": "link",
       "routerLink": "/reports",
       "isActive": false
